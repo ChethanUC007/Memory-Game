@@ -85,9 +85,10 @@ The real-life game, players flip over cards to locate the pairs that match The g
 * Implement additional optimizations that improve the performance and user experience of the game (keyboard shortcuts for gameplay, etc).
 
 ### Scoring
-3 stars = 14 moves or less
-2 stars = 19 moves or less
-1 star = 20 moves or more
+Avilable Scoring Mechanism in Memory Matching game:
+* 3 stars = 14 moves or less
+* 2 stars = 19 moves or less
+* 1 star = 20 moves or more
 
 ## DevelopmentStrategy
 
