@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-* [How The Game Works](#memoryGame?)
+* [How The Game Works](#memoryGame)
 * [Game Functionality](#functionality)
 * [Project Specification](#specification)
 * [Scoring](#scoring)
