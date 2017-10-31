@@ -12,17 +12,17 @@
 
 ## Table of Contents
 
-* [How The Game Works](#MemoryGame?)
-* [Game Functionality](#Functionality)
-* [Project Specification](#Specification)
-* [Scoring](#Scoring)
+* [How The Game Works](#memoryGame?)
+* [Game Functionality](#functionality)
+* [Project Specification](#specification)
+* [Scoring](#scoring)
 * [Instructions](#instructions)
-* [Development Strategy](#DevelopmentStrategy)
-* [Output Screnshots](#Screnshots)
-* [What I learnt?](#LearningHappened)
+* [Development Strategy](#developmentStrategy)
+* [Output Screnshots](#screnshots)
+* [What I learnt?](#learningHappened)
 
 
-## MemoryGame?
+## MemoryGame
 
 **How The Game Works**
 
