@@ -6,7 +6,6 @@
 
 * Built a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a shnazzy, well-designed, feature-packed memory game!
 
-
 * Modal HTML and CSS code referenced from https://www.w3schools.com/howto/howto_css_modals.asp
 
 ## Table of Contents
