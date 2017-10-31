@@ -1,5 +1,5 @@
 /*
- * shuffle() function provided by Udacity's starter code
+ * shuffle() function provided as starter code
  */
 
 // Shuffle function from http://stackoverflow.com/a/2450976
@@ -18,7 +18,7 @@ function shuffle(array) {
 };
 
 /*
- * Following code added by Chris Pereira.
+ * Following code added.
  */
 
 var deck = ["fa-diamond", "fa-diamond", "fa-paper-plane-o", "fa-paper-plane-o", "fa-anchor", "fa-anchor",
