@@ -198,7 +198,7 @@ var onClick = function() {
             openCard( $(this) );
             moveCounter++;
             updateMoveCounter();
-
+            // Set time out
             if (checkMatch()) {
                 setTimeout(setMatch, 300);
 
