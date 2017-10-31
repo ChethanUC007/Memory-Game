@@ -53,10 +53,11 @@ cards two at a time to match the pairs. The game ends when all pairs are reveale
 ![Game](https://i.imgur.com/PFEgiEe.png)
 
 ### A Correct Guess
-[![IMAGE ALT TEXT HERE](https://youtu.be/nZY0-TJtsgM/0.jpg)](https://youtu.be/nZY0-TJtsgM)
+[![Correct Guess](https://i.imgur.com/PFEgiEe.png)](https://youtu.be/nZY0-TJtsgM)
 ### An Incorrect Guess
-[![IMAGE ALT TEXT HERE](https://youtu.be/P5OfFEpcq28/0.jpg)](https://youtu.be/P5OfFEpcq28)
-
+[![Incorrect Guess](https://youtu.be/P5OfFEpcq28/0.jpg)](https://youtu.be/P5OfFEpcq28)
+### Winning The Game
+[![Winning The Game](https://youtu.be/r5YOzWxcbng)](https://youtu.be/r5YOzWxcbng)
 
 ## Functionality
 The real-life game, players flip over cards to locate the pairs that match The goal is to recreate this effect in your project. There are a couple of interactions that you'll need to handle:
