@@ -124,12 +124,9 @@ The real-life game, players flip over cards to locate the pairs that match The g
 ![Game](https://i.imgur.com/PFEgiEe.png)
 
 ### Videos
-* A Correct Guess
-[![Correct Guess](https://youtu.be/nZY0-TJtsgM/o.png)](https://youtu.be/nZY0-TJtsgM)
-* An Incorrect Guess
-[![Incorrect Guess](https://youtu.be/P5OfFEpcq28/0.jpg)](https://youtu.be/P5OfFEpcq28)
-* Winning The Game
-[![Winning The Game](https://youtu.be/r5YOzWxcbng)](https://youtu.be/r5YOzWxcbng)
+* [![Correct Guess](https://youtu.be/nZY0-TJtsgM/o.png)](https://youtu.be/nZY0-TJtsgM)
+* [![Incorrect Guess](https://youtu.be/P5OfFEpcq28/0.jpg)](https://youtu.be/P5OfFEpcq28)
+* [![Winning The Game](https://youtu.be/r5YOzWxcbng)](https://youtu.be/r5YOzWxcbng)
 
 ## LearningHappened
 
