@@ -121,7 +121,7 @@ Avilable Scoring Mechanism in Memory Matching game:
 
 ### Screenshot
 * Game loaded in Browser
-![Game](https://i.imgur.com/PFEgiEe.png)
+![Game](https://i.imgur.com/PFEgiEe.png?1)
 
 ### Videos
 * [![Correct Guess](https://youtu.be/nZY0-TJtsgM/o.png)](https://youtu.be/nZY0-TJtsgM)
