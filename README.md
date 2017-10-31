@@ -1,8 +1,8 @@
-# Memory Game Project
+# [Memory Game Project](https://chethanuc007.github.io/Memory-Game/)
 
 * Using ​HTML, ​CSS ​and ​JavaScript ​by created ​a ​complete browser-based ​card ​matching ​game ​(also ​known ​as ​Concentration). ​From ​building ​a ​grid ​of ​cards, ​adding functionality ​to ​handle ​user ​input, ​and ​implementing ​gameplay ​logic ​- ​combined ​all ​your ​web development ​skills ​to ​create ​a ​fully ​interactive ​experience ​for ​your ​users.
 
-* The Memory Game Project is all about demonstrating your mastery of HTML, CSS, and JavaScript.
+* [The Memory Game Project](https://chethanuc007.github.io/Memory-Game/) is all about demonstrating your mastery of HTML, CSS, and JavaScript.
 
 * Built a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a shnazzy, well-designed, feature-packed memory game!
 
@@ -46,7 +46,7 @@ The real-life game, players flip over cards to locate the pairs that match The g
 
 ## Specification
 
-* Memory Game Logic
+* [Memory Game](https://chethanuc007.github.io/Memory-Game/) Logic
     * The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
 
 * Congratulations Popup
